@@ -20,7 +20,7 @@ export const fifaData = [
     "MatchID": 1096,
     "Home Team Initials": "FRA",
     "Away Team Initials": "MEX"
-  },
+  },  
   {
     "Year": 1930,
     "Datetime": "13 Jul 1930 - 15:00",
